@@ -7,8 +7,8 @@
   },
   {
     "full_name": "freeCodeCamp/devdocs",
-    "stargazers_count": 29020,
-    "open_issues_count": 126,
+    "stargazers_count": 29027,
+    "open_issues_count": 127,
     "forks_count": 1946
   },
   {
@@ -31,15 +31,15 @@
   },
   {
     "full_name": "tj/commander.js",
-    "stargazers_count": 22963,
+    "stargazers_count": 22968,
     "open_issues_count": 9,
     "forks_count": 1642
   },
   {
     "full_name": "resume/resume.github.com",
-    "stargazers_count": 57876,
+    "stargazers_count": 57887,
     "open_issues_count": 61,
-    "forks_count": 1365
+    "forks_count": 1364
   },
   {
     "full_name": "fastruby/dotenv_validator",
@@ -49,15 +49,15 @@
   },
   {
     "full_name": "microsoft/vscode",
-    "stargazers_count": 133506,
-    "open_issues_count": 6972,
-    "forks_count": 22783
+    "stargazers_count": 133537,
+    "open_issues_count": 6983,
+    "forks_count": 22791
   },
   {
     "full_name": "sympy/sympy",
-    "stargazers_count": 9360,
-    "open_issues_count": 4471,
-    "forks_count": 3687
+    "stargazers_count": 9362,
+    "open_issues_count": 4460,
+    "forks_count": 3688
   },
   {
     "full_name": "cutenode/retrogen",
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "markedjs/marked",
-    "stargazers_count": 27817,
+    "stargazers_count": 27826,
     "open_issues_count": 50,
-    "forks_count": 3215
+    "forks_count": 3216
   },
   {
     "full_name": "mduquem/aftermath-stores",
@@ -79,14 +79,14 @@
   },
   {
     "full_name": "tailwindlabs/heroicons",
-    "stargazers_count": 15356,
+    "stargazers_count": 15357,
     "open_issues_count": 2,
     "forks_count": 973
   },
   {
     "full_name": "microsoft/playwright",
-    "stargazers_count": 39641,
-    "open_issues_count": 599,
+    "stargazers_count": 39689,
+    "open_issues_count": 593,
     "forks_count": 1826
   },
   {
@@ -103,7 +103,7 @@
   },
   {
     "full_name": "rileytestut/AltStore",
-    "stargazers_count": 7254,
+    "stargazers_count": 7260,
     "open_issues_count": 466,
     "forks_count": 516
   },
@@ -121,15 +121,15 @@
   },
   {
     "full_name": "responsively-org/responsively-app",
-    "stargazers_count": 16738,
+    "stargazers_count": 16748,
     "open_issues_count": 129,
-    "forks_count": 701
+    "forks_count": 702
   },
   {
     "full_name": "cypress-io/cypress-example-recipes",
-    "stargazers_count": 2778,
+    "stargazers_count": 2781,
     "open_issues_count": 85,
-    "forks_count": 1109
+    "forks_count": 1110
   },
   {
     "full_name": "stefanjudis/tiny-helpers",
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "Solido/awesome-flutter",
-    "stargazers_count": 41285,
+    "stargazers_count": 41298,
     "open_issues_count": 37,
-    "forks_count": 5969
+    "forks_count": 5972
   },
   {
     "full_name": "fabioespinosa/change-name-of-all-keys",
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "mozilla/pdf.js",
-    "stargazers_count": 39085,
-    "open_issues_count": 368,
-    "forks_count": 8872
+    "stargazers_count": 39092,
+    "open_issues_count": 371,
+    "forks_count": 8871
   }
 ]
