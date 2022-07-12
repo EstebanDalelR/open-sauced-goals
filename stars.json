@@ -1,33 +1,39 @@
 [
   {
+    "full_name": "supabase/supabase",
+    "stargazers_count": 35364,
+    "open_issues_count": 285,
+    "forks_count": 2137
+  },
+  {
     "full_name": "microsoft/vscode-test",
-    "stargazers_count": 144,
+    "stargazers_count": 145,
     "open_issues_count": 22,
-    "forks_count": 39
+    "forks_count": 40
   },
   {
     "full_name": "Divine-Software/divine-companions",
-    "stargazers_count": 11,
+    "stargazers_count": 12,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "watermelontools/wm-extension",
-    "stargazers_count": 270,
-    "open_issues_count": 6,
+    "stargazers_count": 271,
+    "open_issues_count": 7,
     "forks_count": 26
   },
   {
     "full_name": "freeCodeCamp/devdocs",
-    "stargazers_count": 29079,
-    "open_issues_count": 131,
-    "forks_count": 1950
+    "stargazers_count": 29099,
+    "open_issues_count": 134,
+    "forks_count": 1954
   },
   {
     "full_name": "kentcdodds/js-testing-fundamentals",
     "stargazers_count": 456,
     "open_issues_count": 1,
-    "forks_count": 298
+    "forks_count": 299
   },
   {
     "full_name": "alejadzr/alejadzr",
@@ -43,15 +49,15 @@
   },
   {
     "full_name": "tj/commander.js",
-    "stargazers_count": 23019,
-    "open_issues_count": 9,
-    "forks_count": 1642
+    "stargazers_count": 23034,
+    "open_issues_count": 10,
+    "forks_count": 1641
   },
   {
     "full_name": "resume/resume.github.com",
-    "stargazers_count": 57945,
+    "stargazers_count": 57963,
     "open_issues_count": 61,
-    "forks_count": 1364
+    "forks_count": 1365
   },
   {
     "full_name": "fastruby/dotenv_validator",
@@ -61,15 +67,15 @@
   },
   {
     "full_name": "microsoft/vscode",
-    "stargazers_count": 133788,
-    "open_issues_count": 7031,
-    "forks_count": 22843
+    "stargazers_count": 133908,
+    "open_issues_count": 7084,
+    "forks_count": 22872
   },
   {
     "full_name": "sympy/sympy",
-    "stargazers_count": 9382,
-    "open_issues_count": 4462,
-    "forks_count": 3689
+    "stargazers_count": 9387,
+    "open_issues_count": 4464,
+    "forks_count": 3692
   },
   {
     "full_name": "cutenode/retrogen",
@@ -79,9 +85,9 @@
   },
   {
     "full_name": "markedjs/marked",
-    "stargazers_count": 27867,
-    "open_issues_count": 53,
-    "forks_count": 3219
+    "stargazers_count": 27889,
+    "open_issues_count": 52,
+    "forks_count": 3220
   },
   {
     "full_name": "mduquem/aftermath-stores",
@@ -91,15 +97,15 @@
   },
   {
     "full_name": "tailwindlabs/heroicons",
-    "stargazers_count": 15410,
+    "stargazers_count": 15435,
     "open_issues_count": 2,
-    "forks_count": 980
+    "forks_count": 985
   },
   {
     "full_name": "microsoft/playwright",
-    "stargazers_count": 39878,
-    "open_issues_count": 610,
-    "forks_count": 1847
+    "stargazers_count": 39963,
+    "open_issues_count": 565,
+    "forks_count": 1851
   },
   {
     "full_name": "mduquem/react_unit_boilerplate",
@@ -115,9 +121,9 @@
   },
   {
     "full_name": "rileytestut/AltStore",
-    "stargazers_count": 7298,
-    "open_issues_count": 470,
-    "forks_count": 518
+    "stargazers_count": 7312,
+    "open_issues_count": 468,
+    "forks_count": 519
   },
   {
     "full_name": "brammitch/recharts-to-png",
@@ -133,21 +139,21 @@
   },
   {
     "full_name": "responsively-org/responsively-app",
-    "stargazers_count": 16794,
+    "stargazers_count": 16824,
     "open_issues_count": 127,
-    "forks_count": 707
+    "forks_count": 708
   },
   {
     "full_name": "cypress-io/cypress-example-recipes",
-    "stargazers_count": 2793,
-    "open_issues_count": 85,
-    "forks_count": 1108
+    "stargazers_count": 2796,
+    "open_issues_count": 86,
+    "forks_count": 1111
   },
   {
     "full_name": "stefanjudis/tiny-helpers",
-    "stargazers_count": 777,
+    "stargazers_count": 778,
     "open_issues_count": 18,
-    "forks_count": 269
+    "forks_count": 270
   },
   {
     "full_name": "edwinthinks/inspiration-ipsum",
@@ -169,14 +175,8 @@
   },
   {
     "full_name": "Solido/awesome-flutter",
-    "stargazers_count": 41472,
-    "open_issues_count": 40,
-    "forks_count": 5992
-  },
-  {
-    "full_name": "fabioespinosa/change-name-of-all-keys",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 0
+    "stargazers_count": 41527,
+    "open_issues_count": 36,
+    "forks_count": 5996
   }
 ]
