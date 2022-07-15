@@ -1,13 +1,25 @@
 [
   {
+    "full_name": "VSCodium/vscodium",
+    "stargazers_count": 17090,
+    "open_issues_count": 102,
+    "forks_count": 720
+  },
+  {
+    "full_name": "FormidableLabs/spectacle",
+    "stargazers_count": 9274,
+    "open_issues_count": 86,
+    "forks_count": 714
+  },
+  {
     "full_name": "supabase/supabase",
-    "stargazers_count": 35538,
-    "open_issues_count": 285,
-    "forks_count": 2139
+    "stargazers_count": 35623,
+    "open_issues_count": 295,
+    "forks_count": 2146
   },
   {
     "full_name": "microsoft/vscode-test",
-    "stargazers_count": 145,
+    "stargazers_count": 146,
     "open_issues_count": 22,
     "forks_count": 40
   },
@@ -19,21 +31,21 @@
   },
   {
     "full_name": "watermelontools/wm-extension",
-    "stargazers_count": 271,
-    "open_issues_count": 7,
-    "forks_count": 26
+    "stargazers_count": 274,
+    "open_issues_count": 8,
+    "forks_count": 27
   },
   {
     "full_name": "freeCodeCamp/devdocs",
-    "stargazers_count": 29107,
-    "open_issues_count": 134,
-    "forks_count": 1955
+    "stargazers_count": 29117,
+    "open_issues_count": 135,
+    "forks_count": 1958
   },
   {
     "full_name": "kentcdodds/js-testing-fundamentals",
-    "stargazers_count": 456,
+    "stargazers_count": 458,
     "open_issues_count": 1,
-    "forks_count": 299
+    "forks_count": 301
   },
   {
     "full_name": "alejadzr/alejadzr",
@@ -49,13 +61,13 @@
   },
   {
     "full_name": "tj/commander.js",
-    "stargazers_count": 23042,
-    "open_issues_count": 10,
-    "forks_count": 1642
+    "stargazers_count": 23055,
+    "open_issues_count": 9,
+    "forks_count": 1644
   },
   {
     "full_name": "resume/resume.github.com",
-    "stargazers_count": 57972,
+    "stargazers_count": 57992,
     "open_issues_count": 61,
     "forks_count": 1366
   },
@@ -67,15 +79,15 @@
   },
   {
     "full_name": "microsoft/vscode",
-    "stargazers_count": 134021,
-    "open_issues_count": 7069,
-    "forks_count": 22877
+    "stargazers_count": 134157,
+    "open_issues_count": 7101,
+    "forks_count": 22900
   },
   {
     "full_name": "sympy/sympy",
-    "stargazers_count": 9390,
+    "stargazers_count": 9398,
     "open_issues_count": 4461,
-    "forks_count": 3694
+    "forks_count": 3698
   },
   {
     "full_name": "cutenode/retrogen",
@@ -85,9 +97,9 @@
   },
   {
     "full_name": "markedjs/marked",
-    "stargazers_count": 27892,
+    "stargazers_count": 27899,
     "open_issues_count": 52,
-    "forks_count": 3221
+    "forks_count": 3222
   },
   {
     "full_name": "mduquem/aftermath-stores",
@@ -97,15 +109,15 @@
   },
   {
     "full_name": "tailwindlabs/heroicons",
-    "stargazers_count": 15439,
+    "stargazers_count": 15447,
     "open_issues_count": 2,
-    "forks_count": 985
+    "forks_count": 988
   },
   {
     "full_name": "microsoft/playwright",
-    "stargazers_count": 39985,
-    "open_issues_count": 566,
-    "forks_count": 1856
+    "stargazers_count": 40055,
+    "open_issues_count": 575,
+    "forks_count": 1861
   },
   {
     "full_name": "mduquem/react_unit_boilerplate",
@@ -121,9 +133,9 @@
   },
   {
     "full_name": "rileytestut/AltStore",
-    "stargazers_count": 7320,
-    "open_issues_count": 468,
-    "forks_count": 519
+    "stargazers_count": 7331,
+    "open_issues_count": 469,
+    "forks_count": 520
   },
   {
     "full_name": "brammitch/recharts-to-png",
@@ -139,20 +151,20 @@
   },
   {
     "full_name": "responsively-org/responsively-app",
-    "stargazers_count": 16836,
+    "stargazers_count": 16865,
     "open_issues_count": 127,
-    "forks_count": 708
+    "forks_count": 709
   },
   {
     "full_name": "cypress-io/cypress-example-recipes",
-    "stargazers_count": 2798,
+    "stargazers_count": 2800,
     "open_issues_count": 86,
-    "forks_count": 1111
+    "forks_count": 1112
   },
   {
     "full_name": "stefanjudis/tiny-helpers",
     "stargazers_count": 778,
-    "open_issues_count": 17,
+    "open_issues_count": 18,
     "forks_count": 270
   },
   {
@@ -166,17 +178,5 @@
     "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "liquidcarrot/carrot",
-    "stargazers_count": 281,
-    "open_issues_count": 96,
-    "forks_count": 36
-  },
-  {
-    "full_name": "Solido/awesome-flutter",
-    "stargazers_count": 41546,
-    "open_issues_count": 36,
-    "forks_count": 5998
   }
 ]
