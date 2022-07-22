@@ -1,33 +1,45 @@
 [
   {
+    "full_name": "excalidraw/excalidraw",
+    "stargazers_count": 30943,
+    "open_issues_count": 683,
+    "forks_count": 2534
+  },
+  {
+    "full_name": "gitkraken/vscode-gitlens",
+    "stargazers_count": 7139,
+    "open_issues_count": 433,
+    "forks_count": 680
+  },
+  {
     "full_name": "TeamCodeStream/codestream",
     "stargazers_count": 805,
     "open_issues_count": 124,
-    "forks_count": 167
+    "forks_count": 168
   },
   {
     "full_name": "VSCodium/vscodium",
-    "stargazers_count": 17129,
-    "open_issues_count": 105,
-    "forks_count": 721
+    "stargazers_count": 17159,
+    "open_issues_count": 108,
+    "forks_count": 718
   },
   {
     "full_name": "FormidableLabs/spectacle",
-    "stargazers_count": 9280,
-    "open_issues_count": 83,
-    "forks_count": 714
+    "stargazers_count": 9283,
+    "open_issues_count": 86,
+    "forks_count": 713
   },
   {
     "full_name": "supabase/supabase",
-    "stargazers_count": 35766,
-    "open_issues_count": 273,
-    "forks_count": 2167
+    "stargazers_count": 35824,
+    "open_issues_count": 255,
+    "forks_count": 2178
   },
   {
     "full_name": "microsoft/vscode-test",
-    "stargazers_count": 146,
+    "stargazers_count": 147,
     "open_issues_count": 22,
-    "forks_count": 40
+    "forks_count": 41
   },
   {
     "full_name": "Divine-Software/divine-companions",
@@ -38,20 +50,20 @@
   {
     "full_name": "watermelontools/wm-extension",
     "stargazers_count": 275,
-    "open_issues_count": 14,
-    "forks_count": 27
+    "open_issues_count": 12,
+    "forks_count": 28
   },
   {
     "full_name": "freeCodeCamp/devdocs",
-    "stargazers_count": 29156,
-    "open_issues_count": 131,
-    "forks_count": 1957
+    "stargazers_count": 29177,
+    "open_issues_count": 132,
+    "forks_count": 1958
   },
   {
     "full_name": "kentcdodds/js-testing-fundamentals",
-    "stargazers_count": 458,
+    "stargazers_count": 460,
     "open_issues_count": 1,
-    "forks_count": 302
+    "forks_count": 304
   },
   {
     "full_name": "alejadzr/alejadzr",
@@ -67,13 +79,13 @@
   },
   {
     "full_name": "tj/commander.js",
-    "stargazers_count": 23095,
-    "open_issues_count": 7,
-    "forks_count": 1646
+    "stargazers_count": 23110,
+    "open_issues_count": 8,
+    "forks_count": 1649
   },
   {
     "full_name": "resume/resume.github.com",
-    "stargazers_count": 58052,
+    "stargazers_count": 58065,
     "open_issues_count": 61,
     "forks_count": 1367
   },
@@ -85,15 +97,15 @@
   },
   {
     "full_name": "microsoft/vscode",
-    "stargazers_count": 134363,
-    "open_issues_count": 7162,
-    "forks_count": 22937
+    "stargazers_count": 134459,
+    "open_issues_count": 7184,
+    "forks_count": 22954
   },
   {
     "full_name": "sympy/sympy",
-    "stargazers_count": 9415,
-    "open_issues_count": 4454,
-    "forks_count": 3704
+    "stargazers_count": 9423,
+    "open_issues_count": 4455,
+    "forks_count": 3707
   },
   {
     "full_name": "cutenode/retrogen",
@@ -103,9 +115,9 @@
   },
   {
     "full_name": "markedjs/marked",
-    "stargazers_count": 27916,
+    "stargazers_count": 27932,
     "open_issues_count": 52,
-    "forks_count": 3220
+    "forks_count": 3221
   },
   {
     "full_name": "mduquem/aftermath-stores",
@@ -115,15 +127,15 @@
   },
   {
     "full_name": "tailwindlabs/heroicons",
-    "stargazers_count": 15493,
+    "stargazers_count": 15510,
     "open_issues_count": 2,
-    "forks_count": 988
+    "forks_count": 992
   },
   {
     "full_name": "microsoft/playwright",
-    "stargazers_count": 40198,
-    "open_issues_count": 592,
-    "forks_count": 1877
+    "stargazers_count": 40280,
+    "open_issues_count": 596,
+    "forks_count": 1881
   },
   {
     "full_name": "mduquem/react_unit_boilerplate",
@@ -139,7 +151,7 @@
   },
   {
     "full_name": "rileytestut/AltStore",
-    "stargazers_count": 7358,
+    "stargazers_count": 7364,
     "open_issues_count": 470,
     "forks_count": 525
   },
@@ -157,26 +169,14 @@
   },
   {
     "full_name": "responsively-org/responsively-app",
-    "stargazers_count": 16895,
-    "open_issues_count": 127,
-    "forks_count": 710
+    "stargazers_count": 16911,
+    "open_issues_count": 129,
+    "forks_count": 709
   },
   {
     "full_name": "cypress-io/cypress-example-recipes",
-    "stargazers_count": 2813,
-    "open_issues_count": 89,
-    "forks_count": 1118
-  },
-  {
-    "full_name": "stefanjudis/tiny-helpers",
-    "stargazers_count": 778,
-    "open_issues_count": 16,
-    "forks_count": 270
-  },
-  {
-    "full_name": "edwinthinks/inspiration-ipsum",
-    "stargazers_count": 1,
-    "open_issues_count": 36,
-    "forks_count": 2
+    "stargazers_count": 2823,
+    "open_issues_count": 88,
+    "forks_count": 1122
   }
 ]
