@@ -1,39 +1,39 @@
 [
   {
     "full_name": "excalidraw/excalidraw",
-    "stargazers_count": 30943,
-    "open_issues_count": 683,
-    "forks_count": 2534
+    "stargazers_count": 31049,
+    "open_issues_count": 684,
+    "forks_count": 2538
   },
   {
     "full_name": "gitkraken/vscode-gitlens",
-    "stargazers_count": 7139,
+    "stargazers_count": 7152,
     "open_issues_count": 433,
-    "forks_count": 680
+    "forks_count": 684
   },
   {
     "full_name": "TeamCodeStream/codestream",
-    "stargazers_count": 805,
+    "stargazers_count": 806,
     "open_issues_count": 124,
-    "forks_count": 168
+    "forks_count": 172
   },
   {
     "full_name": "VSCodium/vscodium",
-    "stargazers_count": 17159,
-    "open_issues_count": 108,
-    "forks_count": 718
+    "stargazers_count": 17196,
+    "open_issues_count": 110,
+    "forks_count": 720
   },
   {
     "full_name": "FormidableLabs/spectacle",
-    "stargazers_count": 9283,
+    "stargazers_count": 9285,
     "open_issues_count": 86,
     "forks_count": 713
   },
   {
     "full_name": "supabase/supabase",
-    "stargazers_count": 35824,
-    "open_issues_count": 255,
-    "forks_count": 2178
+    "stargazers_count": 35923,
+    "open_issues_count": 257,
+    "forks_count": 2187
   },
   {
     "full_name": "microsoft/vscode-test",
@@ -49,19 +49,19 @@
   },
   {
     "full_name": "watermelontools/wm-extension",
-    "stargazers_count": 275,
-    "open_issues_count": 12,
+    "stargazers_count": 277,
+    "open_issues_count": 11,
     "forks_count": 28
   },
   {
     "full_name": "freeCodeCamp/devdocs",
-    "stargazers_count": 29177,
+    "stargazers_count": 29222,
     "open_issues_count": 132,
-    "forks_count": 1958
+    "forks_count": 1966
   },
   {
     "full_name": "kentcdodds/js-testing-fundamentals",
-    "stargazers_count": 460,
+    "stargazers_count": 461,
     "open_issues_count": 1,
     "forks_count": 304
   },
@@ -79,15 +79,15 @@
   },
   {
     "full_name": "tj/commander.js",
-    "stargazers_count": 23110,
-    "open_issues_count": 8,
-    "forks_count": 1649
+    "stargazers_count": 23132,
+    "open_issues_count": 4,
+    "forks_count": 1648
   },
   {
     "full_name": "resume/resume.github.com",
-    "stargazers_count": 58065,
+    "stargazers_count": 58092,
     "open_issues_count": 61,
-    "forks_count": 1367
+    "forks_count": 1368
   },
   {
     "full_name": "fastruby/dotenv_validator",
@@ -97,14 +97,14 @@
   },
   {
     "full_name": "microsoft/vscode",
-    "stargazers_count": 134459,
-    "open_issues_count": 7184,
-    "forks_count": 22954
+    "stargazers_count": 134618,
+    "open_issues_count": 7241,
+    "forks_count": 22987
   },
   {
     "full_name": "sympy/sympy",
-    "stargazers_count": 9423,
-    "open_issues_count": 4455,
+    "stargazers_count": 9427,
+    "open_issues_count": 4467,
     "forks_count": 3707
   },
   {
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "markedjs/marked",
-    "stargazers_count": 27932,
+    "stargazers_count": 27949,
     "open_issues_count": 52,
     "forks_count": 3221
   },
@@ -127,15 +127,15 @@
   },
   {
     "full_name": "tailwindlabs/heroicons",
-    "stargazers_count": 15510,
+    "stargazers_count": 15541,
     "open_issues_count": 2,
-    "forks_count": 992
+    "forks_count": 994
   },
   {
     "full_name": "microsoft/playwright",
-    "stargazers_count": 40280,
-    "open_issues_count": 596,
-    "forks_count": 1881
+    "stargazers_count": 40394,
+    "open_issues_count": 590,
+    "forks_count": 1885
   },
   {
     "full_name": "mduquem/react_unit_boilerplate",
@@ -151,9 +151,9 @@
   },
   {
     "full_name": "rileytestut/AltStore",
-    "stargazers_count": 7364,
-    "open_issues_count": 470,
-    "forks_count": 525
+    "stargazers_count": 7383,
+    "open_issues_count": 471,
+    "forks_count": 526
   },
   {
     "full_name": "brammitch/recharts-to-png",
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "responsively-org/responsively-app",
-    "stargazers_count": 16911,
-    "open_issues_count": 129,
-    "forks_count": 709
+    "stargazers_count": 16933,
+    "open_issues_count": 130,
+    "forks_count": 710
   },
   {
     "full_name": "cypress-io/cypress-example-recipes",
-    "stargazers_count": 2823,
+    "stargazers_count": 2827,
     "open_issues_count": 88,
-    "forks_count": 1122
+    "forks_count": 1124
   }
 ]
